@@ -375,7 +375,8 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  color: blue;
+  color: white;
+  background-color: 	#00BFFF;
   font-size: 2rem;
 }
 
